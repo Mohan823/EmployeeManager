@@ -1,0 +1,32 @@
+2023-07-28 00:30:48.130 +05:30 [ERR] System.Exception: Custom error
+   at EmployeeManager.WebForm2.Button_Submit_Click(Object sender, EventArgs e) in D:\Task\EmployeeManager\EmployeeManager\Edit.aspx.cs:line 62
+
+
+2023-07-28 00:30:48.509 +05:30 [ERR] System.Exception: Custom error
+   at EmployeeManager.WebForm2.Button_Submit_Click(Object sender, EventArgs e) in D:\Task\EmployeeManager\EmployeeManager\Edit.aspx.cs:line 62
+
+
+2023-07-28 00:30:48.911 +05:30 [ERR] System.Exception: Custom error
+   at EmployeeManager.WebForm2.Button_Submit_Click(Object sender, EventArgs e) in D:\Task\EmployeeManager\EmployeeManager\Edit.aspx.cs:line 62
+
+
+2023-07-28 00:30:49.317 +05:30 [ERR] System.Exception: Custom error
+   at EmployeeManager.WebForm2.Button_Submit_Click(Object sender, EventArgs e) in D:\Task\EmployeeManager\EmployeeManager\Edit.aspx.cs:line 62
+
+
+2023-07-28 00:30:49.721 +05:30 [ERR] System.Exception: Custom error
+   at EmployeeManager.WebForm2.Button_Submit_Click(Object sender, EventArgs e) in D:\Task\EmployeeManager\EmployeeManager\Edit.aspx.cs:line 62
+
+
+2023-07-28 00:30:50.858 +05:30 [ERR] System.Exception: Custom error
+   at EmployeeManager.WebForm2.Button_Submit_Click(Object sender, EventArgs e) in D:\Task\EmployeeManager\EmployeeManager\Edit.aspx.cs:line 62
+
+
+2023-07-28 00:30:51.078 +05:30 [ERR] System.Exception: Custom error
+   at EmployeeManager.WebForm2.Button_Submit_Click(Object sender, EventArgs e) in D:\Task\EmployeeManager\EmployeeManager\Edit.aspx.cs:line 62
+
+
+2023-07-28 00:30:51.447 +05:30 [ERR] System.Exception: Custom error
+   at EmployeeManager.WebForm2.Button_Submit_Click(Object sender, EventArgs e) in D:\Task\EmployeeManager\EmployeeManager\Edit.aspx.cs:line 62
+
+
