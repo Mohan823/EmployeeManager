@@ -48,7 +48,7 @@ namespace EmployeeManager
                 }
                 else
                 {
-                    // if updating failed redirect with failed message
+                    // if failed redirect with failed message
                     Session["error"] = "Something went wrong!";
                     Response.Redirect("index.aspx", false);
                 }

@@ -86,17 +86,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="android-chrome-192x192.png" />
+    <Content Include="android-chrome-512x512.png" />
+    <Content Include="apple-touch-icon.png" />
     <Content Include="Assets\css\bootstrap.min.css" />
     <Content Include="Assets\css\style.css" />
     <Content Include="Assets\css\toastr.min.css" />
     <Content Include="Assets\js\bootstrap.bundle.min.js" />
     <Content Include="Assets\js\jquery-3.7.0.min.js" />
     <Content Include="Assets\js\toastr.min.js" />
-    <Content Include="favicon-120x120.png" />
     <Content Include="favicon-16x16.png" />
     <Content Include="favicon-32x32.png" />
-    <Content Include="favicon-96x96.png" />
+    <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="log.txt" />
     <Content Include="Web.config" />
     <Content Include="Index.aspx" />
     <Content Include="Edit.aspx" />
@@ -156,6 +159,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="Site.Master" />
+    <Content Include="site.webmanifest" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
