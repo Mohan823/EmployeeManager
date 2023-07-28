@@ -24,6 +24,7 @@ namespace EmployeeManager
         {
             try
             {
+                Page.Title = "Employee Detail";
                 if (Request.QueryString["id"] == null)
                 {
                     Response.Redirect("index.aspx", false);

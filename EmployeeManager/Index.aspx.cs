@@ -24,6 +24,7 @@ namespace EmployeeManager
         {
             try
             {
+                Page.Title = "Dashboard";
                 if (!IsPostBack)
                 {
                     if (Session["success"] != null)

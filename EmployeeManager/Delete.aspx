@@ -1,6 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Delete.aspx.cs" Inherits="EmployeeManager.WebForm5" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>Delete Employee ?</title>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderBody" runat="server">
      <h1 class="text-center my-5 fs-2">Are you sure to delete?</h1>

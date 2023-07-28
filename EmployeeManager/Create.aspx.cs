@@ -22,7 +22,7 @@ namespace EmployeeManager
         }
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Page.Title = "Employee Register";
         }
 
         protected void Button_Submit_Click(object sender, EventArgs e)

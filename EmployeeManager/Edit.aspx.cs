@@ -24,6 +24,7 @@ namespace EmployeeManager
         {
             try
             {
+                Page.Title = "Update Employee";
                 if (!IsPostBack)
                 {
                     if (Request.QueryString["id"] == null)

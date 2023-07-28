@@ -24,6 +24,7 @@ namespace EmployeeManager
         {
             try
             {
+                Page.Title = "Delete Employee ?"; 
                 if (!IsPostBack)
                 {
                     if (Request.QueryString["id"] == null)
