@@ -40,6 +40,7 @@ namespace EmployeeManager
                     DataTable dataTable = new DataTable();
                     adapter.Fill(dataTable);
 
+                    Label_Id.Text = dataTable.Rows[0]["Id"].ToString();
                     Label_Name.Text = dataTable.Rows[0]["Name"].ToString();
                     Label_Gender.Text = dataTable.Rows[0]["Gender"].ToString();
                     Label_Age.Text = dataTable.Rows[0]["Age"].ToString();

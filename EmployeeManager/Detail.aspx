@@ -7,6 +7,10 @@
     <h1 class="text-center my-5 fs-2">Employee Detail</h1>
     <div class="container">
         <div>
+            <div class="fw-bold">Id</div>
+            <asp:Label ID="Label_Id" runat="server" CssClass="ms-3"></asp:Label>
+        </div>
+        <div>
             <div class="fw-bold">Name</div>
             <asp:Label ID="Label_Name" runat="server" CssClass="ms-3"></asp:Label>
         </div>
